@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <body>
 <div class="grid-container">
   <div class="side"><img src="did-you-know/did-you-know-side.png"></div>
@@ -5,3 +7,4 @@
   <div class="answer">They are treated as assets.</div>
 </div>
 </body>
+</html>
