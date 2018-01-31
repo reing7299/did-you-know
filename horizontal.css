@@ -11,14 +11,14 @@ img {
 
 .grid-container {
   max-width: 500px;
-  border: solid 5px;
+  border: solid 4px;
   border-color: #154671;
   border-radius: 15px;
   align-items: center;
 }
 
 .side {
-  border-right: solid 3px;
+  border-bottom: solid 2px;
   border-color: #154671;
 }
 
