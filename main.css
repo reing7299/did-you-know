@@ -23,7 +23,7 @@ a, p, div {
   grid-area: 1/2/2/3;
   font-size: 36px;
   text-align: center;
-  border: solid 1px;
+  border-bottom: solid 1px;
   border-color: #154671;
   padding-bottom: 15px;
 }
