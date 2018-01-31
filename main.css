@@ -4,7 +4,7 @@ a, p, div {
 
 .grid-container {
   display: inline-grid;
-  grid-template-columns: 179px 2fr;
+  grid-template-columns: 150px 2fr;
   max-width: 1000px;
   grid-template-rows: 100px 2fr;
   border: solid 5px;
