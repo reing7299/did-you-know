@@ -1,1 +1,49 @@
+a, p, div {
+  font-family: "Century Gothic", Arial, sans-serif;
+}
 
+img {
+  display: block;
+  margin: auto;
+  width: fit-content;
+  padding: 0 10px;
+}
+
+.grid-container {
+  max-width: 500px;
+  border: solid 4px;
+  border-color: #154671;
+  border-radius: 15px;
+  align-items: center;
+}
+
+div{
+    height:100px;
+    width:100px;
+    border:2px solid black;
+}
+
+h1{
+    width:30px;
+    margin-top:-10px;
+    margin-left:5px;
+    background:white;
+}
+
+.side {
+  border-bottom: solid 2px;
+  border-color: #154671;
+}
+
+.question {
+  font-size: 24px;
+  text-align: center;
+  border-color: #154671;
+  padding: 10px 0 0;
+}
+
+.answer {
+  text-align: center;
+  font-size: 16px;
+  padding: 10px;
+}
