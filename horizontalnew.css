@@ -30,6 +30,10 @@ h1.background{
   margin-bottom: 0px;
   color: #ed7a21;
 }
+span {
+  color: #oe477e
+}
+<h1><span>First </span>word</h1> 
 
 .question {
   font-size: 24px;
