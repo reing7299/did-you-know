@@ -17,13 +17,6 @@ img {
   align-items: center;
 }
 
-div{
-    height:100px;
-    width:100px;
-    border:2px solid black;
-}
-
-
 .side {
   border-bottom: solid 2px;
   border-color: #154671;
