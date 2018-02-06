@@ -20,14 +20,15 @@ img {
 
 span {
   background:white;
-  padding: 0 1px 0 1px; 
-  margin-left: 14px; 
+  padding: 1px 2px 0px 3px; 
+  margin-left: 14px;
+  font-size: 27px;
 }
 
 h4.background{
-  margin-top: -25px;
-  margin-left: 10px;
-  margin-bottom: 0px;
+  margin-top: -17px;
+  margin-left: 11px;
+  margin-bottom: -2px;
   color: #ed7a21;
 }
 span {
